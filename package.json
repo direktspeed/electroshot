@@ -1,5 +1,5 @@
 {
-  "name": "direktspeed/electroshot",
+  "name": "@direktspeed/electroshot",
   "version": "1.4.1",
   "description": "Capture website screenshots with optional device and network emulation as jpg, png or pdf (with web fonts!) using Electron / Chrome.",
   "main": "test.js",
